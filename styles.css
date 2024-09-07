@@ -65,7 +65,7 @@ button{
     background:rgba(255,255,255,.2);
     border:0;
     color:rgba(255,255,255,.5);
-    padding: 5px 20px;
+    padding: 10px 10px;
     border-radius: 5px;
     cursor:pointer;
 }
@@ -195,6 +195,7 @@ opacity: .5;
     display:none;
 }
  
+
  
   
 
